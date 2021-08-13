@@ -1,5 +1,5 @@
-print('正在制作，敬请期待，')
-print('')
+print('欢迎使用编程器，')
+print('请输入代码')
 print('')
 print('')
 print('')
